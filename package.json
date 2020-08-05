@@ -1,7 +1,7 @@
 {
-  "name": "@flatfile/react",
+  "name": "react-typescript-skeleton",
   "version": "0.1.0",
-  "description": "React Flatfile Adapter",
+  "description": "A sekelton with testing and docker included for creating React dependencies.",
   "main": "dist/index.js",
   "scripts": {
     "build": "NODE_ENV=production tsc",
@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FlatFilers/react-adapter.git"
+    "url": "https://github.com/brentkulwicki/react-npm-comp-skeleton.git"
   },
   "author": "Brent Kulwicki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FlatFilers/react-adapter/issues"
+    "url": "https://github.com/brentkulwicki/react-npm-comp-skeleton/issues"
   },
-  "homepage": "https://github.com/FlatFilers/react-adapter#readme",
+  "homepage": "https://github.com/brentkulwicki/react-npm-comp-skeleton#readme",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",
